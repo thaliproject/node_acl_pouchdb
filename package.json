@@ -1,0 +1,34 @@
+{
+  "name": "node_acl_pouchdb",
+  "version": "1.0.0",
+  "description": "PouchDB bindings for the NODE ACL project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/runner.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaliproject/node_acl_pouchdb.git"
+  },
+  "keywords": [
+    "pouchdb",
+    "acl"
+  ],
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thaliproject/node_acl_pouchdb/issues"
+  },
+  "homepage": "https://github.com/thaliproject/node_acl_pouchdb",
+  "dependencies": {
+    "acl": "^0.4.7",
+    "lodash": "^3.6.0",
+    "memdown": "^1.0.0",
+    "pouchdb": "^3.4.0",
+    "rx": "^2.5.2"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
+}
