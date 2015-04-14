@@ -3,7 +3,7 @@
 [![NPM version](http://img.shields.io/npm/v/node_acl_pouchdb.svg)](https://npmjs.org/package/node_acl_pouchdb)
 [![Downloads](http://img.shields.io/npm/dm/node_acl_pouchdb.svg)](https://npmjs.org/package/node_acl_pouchdb)
 
-# LevelUp adapter for ACL #
+# PouchDB adapter for ACL #
 
 This project is an adapter for [PouchDB](http://pouchdb.com/) library for the [NODE ACL](https://github.com/OptimalBits/node_acl) project.
 
